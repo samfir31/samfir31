@@ -9,7 +9,7 @@
 ## Minhas redes sociais
 <p>
 
-<a href="https://linkedin.com/in/samfir31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guihdev" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/samuel-firmino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guihdev" height="20" width="20" /></a>
 <a href="https://www.youtube.com/channel/UCyo73TBnks2nqy-0wACNVMQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="guihdev" height="20" width="20" /></a>
 <a href="https://twitch.tv/samfir31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="gitlherme" height="20" width="20" /></a>
 </p>
