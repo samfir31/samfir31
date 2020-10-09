@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o Samuel 👋
 
-<!--
-**samfir31/samfir31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :smiley: Tenho 19 anos
+- :computer: Estudo para desenvolver minhas habilidades FullStack
+- :paperclip: Adoro discutir ideias e novos desafios
+- :game_die: Amo jogos de mesa e online :video_game:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas redes sociais
+<p>
+
+<a href="https://linkedin.com/in/samfir31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guihdev" height="20" width="20" /></a>
+<a href="https://www.youtube.com/channel/UCyo73TBnks2nqy-0wACNVMQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="guihdev" height="20" width="20" /></a>
+<a href="https://twitch.tv/samfir31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="gitlherme" height="20" width="20" /></a>
+</p>
