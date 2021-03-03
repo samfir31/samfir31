@@ -1,6 +1,6 @@
 ### Olá, eu sou o Samuel 👋
 
-- :smiley: Tenho 19 anos
+- :smiley: Tenho 20 anos
 - :computer: Estudo para desenvolver minhas habilidades FullStack
 - :paperclip: Adoro discutir ideias e novos desafios
 - :game_die: Amo jogos de mesa e online :video_game:
